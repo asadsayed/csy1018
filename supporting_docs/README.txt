@@ -1,3 +1,10 @@
+COVER SHEET
+Full Name: Asad Sayed
+Stuent ID: 16438781
+Github URL:
+Assignment 1: Web Development
+Submission date: 15/01/2017
+
 I used the initial template we designed in class that was available on Liz Coulter-Smith's Codepen. My personal goal was to create a simplistic website with minimal CSS rules, and to create as much as possible by hand, without using code from elsewhere. I did not collaborate with no one, however the few places I have taken code from has been referenced in the code. Every page uses one column apart from the CV page, which uses flex box to arrange the columns into two rows when the width is smaller than 30em. I have used em for all measurements instead of pixels. This is because of the wide range of devices available. I have also used main, aside, footer and header instead of standard divs. This allows for better reading for impaired users. The headings at the top stack vertically when the page is smaller than 30em. I would have liked to include more media queries for other device types such as tablets. 
 
 Things that I would have liked to improve on include the following.
