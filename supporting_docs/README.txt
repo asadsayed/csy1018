@@ -1,7 +1,7 @@
 COVER SHEET
 Full Name: Asad Sayed
 Stuent ID: 16438781
-Github URL:
+Github URL: asadsayed.github.io/csy1018/
 Assignment 1: Web Development
 Submission date: 15/01/2017
 
